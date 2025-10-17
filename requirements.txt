@@ -1,0 +1,19 @@
+# Web Framework
+flask
+gunicorn
+streamlit
+
+# Data Processing
+pandas
+numpy
+scikit-learn
+joblib
+pickle5
+
+# Networking / DFA
+scapy
+regex
+requests
+
+# Utility / Logging
+datetime

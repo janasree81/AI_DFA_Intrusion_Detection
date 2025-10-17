@@ -1,0 +1,16 @@
+2025-10-15T09:40:08.276267 | Result: ⚠️ ALERT: DFA detected malicious traffic | Packet String: proto=attack_signature flags=S
+2025-10-15T09:40:56.886757 | Result: ML Prediction: normal | Packet String: proto=duration flags=S
+2025-10-15T09:41:04.462749 | Result: ML Prediction: normal | Packet String: proto=duration flags=S
+2025-10-17T08:16:21.753073 | Result: ML Prediction: normal | Packet String: proto=tcp flags=S
+2025-10-17T08:16:34.722023 | Result: ML Prediction: normal | Packet String: proto=tcp flags=S
+2025-10-17T08:17:56.085459 | Result: ML Prediction: normal | Packet String: proto=tcp flags=S
+2025-10-17T08:23:29.586623 | Result: ML Prediction: neptune | Packet String: proto=tcp flags=S
+2025-10-17T08:29:48.880612 | Result: ML Prediction: neptune | Packet String: proto=tcp flags=S
+2025-10-17T08:30:06.052345 | Result: ⚠️ ALERT: DFA detected malicious traffic | Packet String: proto=neptune flags=S
+2025-10-17T08:31:24.833986 | Result: ML Prediction: neptune | Packet String: proto=tcp flags=S
+2025-10-17T08:34:51.694732 | Result: ML Prediction: neptune | Packet String: proto=tcp flags=S
+2025-10-17T08:35:04.417325 | Result: ML Prediction: normal | Packet String: proto=tcp flags=S
+2025-10-17T08:39:25.776733 | Result: ML Prediction: normal (no DFA match) | Packet String: proto=tcp flags=S
+2025-10-17T08:47:14.823009 | Result: ML Prediction: normal (no DFA match) | Packet String: proto=tcp flags=S
+2025-10-17T09:04:12.371036 | Result: ML Prediction: normal (no DFA match) | Packet String: proto=tcp flags=S
+2025-10-17T09:05:21.999359 | Result: ML Prediction: normal (no DFA match) | Packet String: proto=tcp flags=S
